@@ -13,15 +13,14 @@ Three business questions were asked and answered:
 
 - A Descriptive Jupyter Notebook
 - Two datasets:
-   Detailed Listings data for Boston and Seattle which were collected Aug.19th.
    Dataset Link: http://insideairbnb.com/get-the-data.html
 
 ## Results of the analysis
 
-Results and discussion were published on Medium: [Dive Into Boston and Seattle Airbnb Data](https://medium.com/@shihaowen/dive-into-boston-and-seattle-airbnb-data-b4a9e79b740c)
+Results and discussion were published on Medium: [Deep Evaluation of the Boston & Seattle Airbnb Data](https://dsndalwi.wixsite.com/website)
    
 In this project, I dived into the most recent Airbnb Boston and Seattle dataset and found many interesting aspects:
-- We gathered the Boston and Seattle Airbnb data, and compare the two dataset.
+- We gathered the Boston and Seattle Airbnb data, and compared the two datasets.
 - We established a machine learning model to predict the rental price for both cities.
 - We took a look at the feature importance of the trained model and check if they make sense.
 - We list all the important amenities to get a better feeling how host can make more money by providing better services to meet customers’ need.
